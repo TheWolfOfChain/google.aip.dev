@@ -54,4 +54,4 @@ additional details, see the developer.google.com [Site Policies][3].
 
 [1]: https://creativecommons.org/licenses/by/4.0/
 [2]: https://www.apache.org/licenses/LICENSE-2.0
-[3]: https://developers.google.com/terms/site-policies
+[3]: https://developers.google.com/terms/site-policies 
